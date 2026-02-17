@@ -32,6 +32,10 @@ Maintained by [PAATHI](https://paathi.org) (Pan-African Alliance for Technology 
 - **Ecosystem**
   - [Community & Learning](#community--learning)
   - [Key Research Papers](#key-research-papers)
+- [Training & Certification](#training--certification)
+- [Methodology](#methodology)
+- [Contribute & Publish](#contribute--publish)
+- [Sister Repositories](#sister-repositories)
 - [Contributing](#contributing)
 - [About](#about)
 - [License](#license)
@@ -292,6 +296,56 @@ Foundational research for understanding AI and digital health in Africa.
 | [AI in global health: unfair future for Sub-Saharan Africa?](https://pmc.ncbi.nlm.nih.gov/articles/PMC11823112/) | 2025 | Equity analysis of AI benefit distribution. Warns of widening gap without local capacity. |
 | [Health information exchange policy and standards in Africa](https://pmc.ncbi.nlm.nih.gov/articles/PMC9931258/) | 2023 | Systematic review of HIE policies. Finds FHIR + DHIS2 as primary interoperability enablers. |
 | [Do we need prequalification of AI as a medical device?](https://www.nature.com/articles/s41746-025-02151-7) | 2025 | Argues for WHO prequalification pathway to drive equitable AI adoption in LMICs. |
+
+---
+
+## Training & Certification
+
+Programs and courses relevant to African digital health professionals:
+
+- [Africa CDC Institute of Workforce Development](https://africacdc.org/) — Continental health workforce capacity building
+- [Smart Africa Digital Academy (SADA)](https://smartafrica.org/sada/) — Pan-African digital skills certification
+- [ALX Africa](https://www.alxafrica.com/) — Tech talent accelerator (100K+ enrolled across Africa)
+- [Andela Learning Community](https://andela.com/) — Developer training and placement across Africa
+- [WHO Academy](https://academy.who.int/) — Health workforce AI training (targeting 3M by 2028)
+- [e-Governance Academy](https://ega.ee/) — Estonian e-governance programs adapted for Africa
+- [Coursera for Campus](https://www.coursera.org/campus/) — University-partnered health informatics programs
+- [OpenWHO](https://openwho.org/) — Free health emergency preparedness courses
+- [HELINA (Health Informatics in Africa)](http://helina-online.org/) — Pan-African health informatics conference and training
+- [RAIGH Academy](https://raigh.academy/) — Health AI certification (MOOC to Sovereign Architect) with employment guarantee (PAATHI)
+- [GovStack Training](https://www.govstack.global/capacity-building/) — Digital public infrastructure capacity building
+- [HL7 FHIR Training](https://www.hl7.org/fhir/training.html) — FHIR interoperability standards certification
+
+---
+
+## Methodology
+
+This list is maintained using a systematic curation pipeline:
+1. **Agentic Extraction** — Automated search across PubMed, government health portals, GitHub, and grey literature (WHO, Africa CDC, World Bank reports)
+2. **Knowledge Graph Integration** — Resources linked to entities (countries, standards, organizations) to identify coverage gaps across Africa's 55 countries
+3. **Human-AI Validation** — AI suggests resources; human reviewers verify accuracy, relevance, and link integrity
+4. **Continuous Update** — Weekly automated scans + community pull requests
+
+For details on our curation methodology, see our companion paper (forthcoming).
+
+---
+
+## Contribute & Publish
+
+**Research collaboration:** Young researchers can participate in our "Human vs AI" curation study — comparing manual resource discovery against automated extraction for African digital health resources. Contributors become co-authors on the methodology paper. Contact [contribute@evidenceos.com](mailto:contribute@evidenceos.com).
+
+---
+
+## Sister Repositories
+
+This list is part of a family of curated resources maintained by PAATHI and EvidenceOS:
+
+| Repository | Focus |
+|---|---|
+| [awesome-dpi-infrastructure](https://github.com/EvidenceOS/awesome-dpi-infrastructure) | Digital public infrastructure platforms and protocols |
+| [awesome-health-ai-regulations](https://github.com/EvidenceOS/awesome-health-ai-regulations) | Global health AI regulatory landscape with structured data |
+| [awesome-health-ai-evaluation](https://github.com/EvidenceOS/awesome-health-ai-evaluation) | Frameworks for evaluating health AI systems |
+| [awesome-ai-evaluation-metrics](https://github.com/EvidenceOS/awesome-ai-evaluation-metrics) | Cross-modality AI evaluation metrics taxonomy |
 
 ---
 
